@@ -1,0 +1,11 @@
+why is java is plateform independent?
+Java is platform-independent because it is compiled to a bytecode that can be run on any device
+ that has a Java Virtual Machine (JVM). This means that you can write a Java program on one platform (such as Windows)
+ and then run it on a different platform (such as macOS or Linux) without making any changes to the code.
+
+ JDBC Driver is a software component that enables java application to interact with the database. There are 4 types of JDBC drivers:
+JDBC-ODBC bridge driver
+Native-API driver (partially java driver)
+Network Protocol driver (fully java driver)
+Thin driver (fully java driver)
+
