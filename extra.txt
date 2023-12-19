@@ -9,3 +9,7 @@ Native-API driver (partially java driver)
 Network Protocol driver (fully java driver)
 Thin driver (fully java driver)
 
+
+this is new update -
+statement it is used for connecting sql query 
+
